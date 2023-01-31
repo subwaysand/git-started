@@ -1,2 +1,4 @@
 # git-started
- My First Repo
+ 
+ My First Commit
+ "Commit or Quit"
